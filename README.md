@@ -2,6 +2,7 @@
 It's a Desktop based Chat Application in which I wrote the programme in JAVA.
 
 <b>
+ <p>
  * Code ko run krne ke liye pehle server site ka active hona must hai
  * Isliye Firstly we will Run Our Server File
  * Uske Client File ko run krenge
@@ -16,6 +17,7 @@ It's a Desktop based Chat Application in which I wrote the programme in JAVA.
  * Answer:- Swing in java is part of Java foundation class which is lightweight and platform independent.
  * It is used for creating window based applications. It includes components like button, scroll bar, text field etc.
  * Putting together all these components makes a graphical user interface.
+ </p> 
  <p>
  1.Read_UTF - The DataInputStream class provides a String readUTF( ) and String readUTF(DataInput in) methods to
  read a UTF8 encoded string from its underlying input stream.
